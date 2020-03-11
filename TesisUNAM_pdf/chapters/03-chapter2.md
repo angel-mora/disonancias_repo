@@ -17,9 +17,15 @@ En el capítulo anterior hemos desarrollado el argumento de que el Estado modern
 ## Las formaciones sociales se configuran por procesos maquínicos y por ciertas capturas 
 
 Según Deleuze y Guattari, la máquina social codifica el deseo. Esto quiere decir que las formaciones sociales se dan por procesos maquínicos y no tanto por los modos de producción. En el capítulo 3 de _Salvajes, bárbaros y civilizados_, señalan que Estado viene de Marx –modo de producción asiático-, Nietzsche –origen y domesticación-, y Freud –latencia @deleuzeAntiedipoCapitalismoEsquizofrenia2017.  El Estado despótico es _urstaat_. El Estado como máquina social consiste en una articulación doble. En lo social, un sistema institucional sociopolítico. En lo libidinal, un campo del deseo y de subjetivación.  El capitalismo se sirve del _urstaat_ como límite interior inhibido. El Estado capitalista conserva un vínculo con el despotismo, porque el capitalismo tiene potencias de muerte, derrama la antiproducción en la producción. Al final, la máquina social nunca funciona bien. 
-La formación asiática, la concepción de que el Estado surgió ya armado, está en la base, es el horizonte de toda la historia. 1) El Estado despótico es el origen, es una latencia. 2) El Estado es deseo de Estado. No hay más que el deseo y lo social, y el deseo forma parte de la infraestructura social. El deseo inviste el campo social, mediatizado por una instancia sociolibidinal de antiproducción: el _socius_. _Socius_ está bajo las figuras de la tierra, el déspota y el capital. Ellas provienen de máquinas sociales diferentes.
 
-Tanto la producción social como la deseante se articulan en distintos flujos de aparatos históricos de socialización del deseo. No son dispositivos lo que agencian y constituyen. Son los agenciamientos del deseo los que expanden las formaciones de poder. Los códigos sociales subordinan la producción deseante a las condiciones de reproducción de la estructura social.  La producción deseante no solo es atravesada por códigos sociales, también por la emergencia de singularidades deseantes: figuras esquizias o nómades. 
+La formación asiática, la concepción de que el Estado surgió ya armado, está en la base, es el horizonte de toda la historia.
+
+1. El Estado despótico es el origen, es una latencia.
+2. El Estado es deseo de Estado.
+
+No hay más que el deseo y lo social, y el deseo forma parte de la infraestructura social. El deseo inviste el campo social, mediatizado por una instancia sociolibidinal de antiproducción: el _socius_. _Socius_ está bajo las figuras de la tierra, el déspota y el capital. Ellas provienen de máquinas sociales diferentes.
+
+Tanto la producción social como la deseante se articulan en distintos flujos de aparatos históricos de socialización del deseo. No son dispositivos lo que agencian y constituyen. Son los agenciamientos del deseo lo que expande las formaciones de poder. Los códigos sociales subordinan la producción deseante a las condiciones de reproducción de la estructura social.  La producción deseante no solo es atravesada por códigos sociales, también por la emergencia de singularidades deseantes: figuras esquizias o nómades. 
 
 |**Formaciones sociales**|**Máquinas sociales**  |**Formas de Estado (motor inmóvil)**|
 |------------------------|-----------------------|------------------------------------|
@@ -53,9 +59,7 @@ El déspota es un paranoico y sus burócratas unos perversos.  (p.100) Él se re
 
 En este apartado presento algunos esquemas sobre el aparato de captura del Estado. Recordemos que los dos mecanismos principales del Imperio son el Biopoder (mutación de la policía), que consiste en el traslado del orden de La Ley a la regulación a través de normas sin sujeto, interiorizadas. Mientras, el Espectáculo (mutación de la publicidad) consiste en la apropiación capitalista de la imagen para mercantilizar el deseo.^[Más en el apartado sobre los monopolios y mecanismos del Estado moderno en este mismo capítulo.] Estos procesos maquínicos, que definen al Imperio como fase posterior al desarrollo e implosión de los Estados-nación, tiene distintos modos de regulación, que constituyen y dan forma a su aparato de captura @deleuzeMilMesetasCapitalismo2002:
 
-
 ![](images/deleuze-captura.png)
-
 
 Por otro lado, la transformación del Estado moderno al Imperio se caracteriza por la sofisticación de los aparatos de captura en arquitecturas corporativas que bien podrían imaginarse como pirámides cristalizadas. Según el colectivo ANON, se trata de un arreglo piramidal donde la jerarquía y el conocimiento de formaciones sociales aumentan conforme se llega al tope de la jeraquía.
 
@@ -63,15 +67,15 @@ Por otro lado, la transformación del Estado moderno al Imperio se caracteriza p
 
 Al mismo tiempo, proponen una clasificación de los aparatos del Estado contemporáneo:
 
--   Aparato socio-ideológico: familia, tradición, religión, nacionalidad, etc. Codifica el deseo y la colonización psicológica del sujeto, establece hegemonía además de producir y mantener el estado actual de las cosas.
+- Aparato socio-ideológico: familia, tradición, religión, nacionalidad, etc. Codifica el deseo y la colonización psicológica del sujeto, establece hegemonía además de producir y mantener el estado actual de las cosas.
 
--   Aparato productivo-comercial: finanzas, bancos, empresas corporativas, propietarios, etc. Comercialización de la producción, mercantilización del deseo para ligarlo al proceso de producción, monopolización del mercado, el valor de los desvíos que vuelve a los ricos a través de la parasitación de la mano de obra.
+- Aparato productivo-comercial: finanzas, bancos, empresas corporativas, propietarios, etc. Comercialización de la producción, mercantilización del deseo para ligarlo al proceso de producción, monopolización del mercado, el valor de los desvíos que vuelve a los ricos a través de la parasitación de la mano de obra.
 
--   Aparato marcial-carcelario: los militares, la policía, la inteligencia, el sistema de prisiones. Mantiene el estado actual de las cosas a la fuerza, la disciplina y el control de los sujetos, protege los intereses de los propietarios capitalistas y del Estado, sus fronteras, extrae recursos de otras regiones a través de la fuerza, redirige la riqueza para expandir el brazo militar del Estado e incentiva su investigación y desarrollo.
+- Aparato marcial-carcelario: los militares, la policía, la inteligencia, el sistema de prisiones. Mantiene el estado actual de las cosas a la fuerza, la disciplina y el control de los sujetos, protege los intereses de los propietarios capitalistas y del Estado, sus fronteras, extrae recursos de otras regiones a través de la fuerza, redirige la riqueza para expandir el brazo militar del Estado e incentiva su investigación y desarrollo.
 
--   Aparato subversivo-periférico: subjetividades colonizadas, grupos minoritarios, organizaciones criminales, la banda en sombra (*shadow banking*), los mercados negros, etc. Muerte social y necropolítica. Establece la identidad de los ciudadanos mediante la otredad como diferenciación de subjetividades marginales, da un camino al lucro más allá del aparato comercial productivo.
+- Aparato subversivo-periférico: subjetividades colonizadas, grupos minoritarios, organizaciones criminales, la banda en sombra (*shadow banking*), los mercados negros, etc. Muerte social y necropolítica. Establece la identidad de los ciudadanos mediante la otredad como diferenciación de subjetividades marginales, da un camino al lucro más allá del aparato comercial productivo.
 
--   Aparato legal de la soberanía: el Estado, el sistema de justicia, los gobiernos, etc. Colonización el espacio geofísico, establecimiento del territorio y determinación de estratos y jerarquías sociales.
+- Aparato legal de la soberanía: el Estado, el sistema de justicia, los gobiernos, etc. Colonización el espacio geofísico, establecimiento del territorio y determinación de estratos y jerarquías sociales.
 
 ### Un dispositivo es la instancia molecular del aparato de captura 
 
