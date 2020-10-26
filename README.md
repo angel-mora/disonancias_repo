@@ -1,2 +1,2 @@
 # disonancias_repo
-Versión nueva del proyecto Disonancias
+ Textos y borradores para el proyecto Disonancias. 
