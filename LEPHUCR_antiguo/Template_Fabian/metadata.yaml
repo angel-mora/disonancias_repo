@@ -1,0 +1,24 @@
+% Título
+% Angel Moma
+---
+lang: es
+documentclass: memoir
+classoptions: 9pt
+header-includes:
+  - \defaultfontfeatures{
+      Ligatures={Required, Common, Contextual, TeX},
+      Contextuals={Swash, Alternate},
+      Numbers={Lining}
+    }
+  - \setmainfont{Alegreya}
+  - \setsansfont{Raelway}
+  - \setmonofont{Raleway}
+  - \usepackage{metalogo}
+  - \setstocksize{5.5in}{4.25in}
+  - \settrimmedsize{5.5in}{4.25in}{*}
+  - \setulmarginsandblock{0.5in}{0.4in}{*}
+  - \setlrmarginsandblock{0.5in}{0.3in}{*}
+  - \setheadfoot{12pt}{12pt}
+  - \setheaderspaces{*}{6pt}{*}
+  - \checkandfixthelayout
+---

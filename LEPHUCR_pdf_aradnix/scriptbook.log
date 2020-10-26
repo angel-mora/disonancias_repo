@@ -1,0 +1,2623 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.17)  24 JAN 2020 12:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**scriptbook.tex
+(./scriptbook.tex
+LaTeX2e <2019-10-01> patch level 3
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2019/12/23 v3.28 KOMA-Script document class (book)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2019/12/23 v3.28 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2019/12/23 v3.28 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2019/12/23 v3.28 KOMA-Script package (loading files)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2019/12/23 v3.28 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box27
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 137.
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
+ne 2423.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2019/12/23 v3.28 KOMA-Script font size class option (11pt
+)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2019/12/23 v3.28 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: Maybe no optimal type area settings!
+(typearea)             The detected line width is about 22%
+(typearea)             smaller than the heuristically estimated maximum
+(typearea)             limit of typographical good line width.
+(typearea)             You could e.g. increase DIV, decrease fontsize
+(typearea)             or change the papersize.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 11
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 397.48499pt
+(typearea)              \textwidth      = 278.73355pt
+(typearea)              DIV departure   = 22%
+(typearea)              \evensidemargin = -2.58661pt
+(typearea)              \oddsidemargin  = -23.20193pt
+(typearea)             \paperheight     = 614.295pt
+(typearea)              \textheight     = 419.00018pt
+(typearea)              \topmargin      = -16.425pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1718.
+)
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\scr@dte@chapter@maxnumwidth=\skip47
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5544.
+\scr@dte@section@maxnumwidth=\skip48
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5554.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5554.
+\scr@dte@part@maxnumwidth=\skip49
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5563.
+\scr@dte@subsection@maxnumwidth=\skip50
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5573.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5573.
+\scr@dte@subsubsection@maxnumwidth=\skip51
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5583.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5583.
+\scr@dte@paragraph@maxnumwidth=\skip52
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5593.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5593.
+\scr@dte@subparagraph@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5603.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5603.
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box28
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6845.
+\scr@dte@figure@maxnumwidth=\skip56
+\c@figure=\count88
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6866.
+\scr@dte@table@maxnumwidth=\skip57
+\c@table=\count89
+Class scrbook Info: Redefining `\numberline' on input line 7039.
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks15
+\SOUL@lasttoken=\toks16
+\SOUL@cmds=\toks17
+\SOUL@buffer=\toks18
+\SOUL@token=\toks19
+\SOUL@spaceskip=\skip58
+\SOUL@ttwidth=\dimen103
+\SOUL@uldp=\dimen104
+\SOUL@ulht=\dimen105
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/01/15 3.38 The Babel package
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/01/15 3.38 Babel switching mechanism
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/01/15 3.38 Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen106
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read1
+\bbl@dirlevel=\count91
+)
+\es@quottoks=\toks22
+\es@quotdepth=\count92
+Package babel Info: Making " an active character on input line 561.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/alegreya/Alegreya.sty
+Package: Alegreya 2019/10/12 (Bob Tennent) Supports Alegreya and AlegreyaSC fon
+ts for all LaTeX engines. 
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count93
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mweights/mweights.sty
+Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight 
+font packages. 
+LaTeX Info: Redefining \bfseries on input line 22.
+LaTeX Info: Redefining \mdseries on input line 30.
+LaTeX Info: Redefining \rmfamily on input line 38.
+LaTeX Info: Redefining \sffamily on input line 66.
+LaTeX Info: Redefining \ttfamily on input line 94.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/alegreya/AlegreyaSans.sty
+Package: AlegreyaSans 2019/10/12 (Bob Tennent) Supports AlegreyaSans fonts for 
+all LaTeX engines. 
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+)
+LaTeX Info: Redefining \textsu on input line 338.
+LaTeX Info: Redefining \textin on input line 339.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/inconsolata.sty
+Package: inconsolata 2019/05/17 v1.12
+
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+\zifour@ocount=\count94
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/hologo/hologo.sty
+Package: hologo 2019/12/05 v1.14 A logo collection with bookmark support (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+Package hologo Info: Using driver `pdftex'.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count95
+)
+\csq@reset=\count96
+\csq@gtype=\count97
+\csq@glevel=\count98
+\csq@qlevel=\count99
+\csq@maxlvl=\count100
+\csq@tshold=\count101
+\csq@ltx@everypar=\toks25
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Redefining alias 'spanish' -> 'spanish/mexican'.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen109
+\lightrulewidth=\dimen110
+\cmidrulewidth=\dimen111
+\belowrulesep=\dimen112
+\belowbottomsep=\dimen113
+\aboverulesep=\dimen114
+\abovetopsep=\dimen115
+\cmidrulesep=\dimen116
+\cmidrulekern=\dimen117
+\defaultaddspace=\dimen118
+\@cmidla=\count102
+\@cmidlb=\count103
+\@aboverulesep=\dimen119
+\@belowrulesep=\dimen120
+\@thisruleclass=\count104
+\@lastruleclass=\count105
+\@thisrulewidth=\dimen121
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/layout.sty
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count106
+\cnt@paperwidth=\count107
+\cnt@paperheight=\count108
+\cnt@hoffset=\count109
+\cnt@voffset=\count110
+\cnt@textheight=\count111
+\cnt@textwidth=\count112
+\cnt@topmargin=\count113
+\cnt@oddsidemargin=\count114
+\cnt@evensidemargin=\count115
+\cnt@headheight=\count116
+\cnt@headsep=\count117
+\cnt@marginparsep=\count118
+\cnt@marginparwidth=\count119
+\cnt@marginparpush=\count120
+\cnt@footskip=\count121
+\fheight=\count122
+\ref@top=\count123
+\ref@hoffset=\count124
+\ref@voffset=\count125
+\ref@head=\count126
+\ref@body=\count127
+\ref@foot=\count128
+\ref@margin=\count129
+\ref@marginwidth=\count130
+\ref@marginpar=\count131
+\Interval=\count132
+\ExtraYPos=\count133
+\PositionX=\count134
+\PositionY=\count135
+\ArrowLength=\count136
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/typogrid/typogrid.sty
+Package: typogrid 2011/12/31 v0.21 Typographic grid
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count137
+\calc@Bcount=\count138
+\calc@Adimen=\dimen122
+\calc@Bdimen=\dimen123
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count139
+\calc@Cskip=\skip61
+)
+\gridwidth=\skip62
+\tpg@blocks=\count140
+\c@tpg@blocks@new=\count141
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2019/12/15 v1.9 Color options for hyperref/bookmark (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hycolor/xcolor-patch.sty
+Package: xcolor-patch 2019/12/15 xcolor patch
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/hopatch.sty
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen124
+\Hy@linkcounter=\count142
+\Hy@pagecounter=\count143
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count144
+\pdfmajorversion=\count145
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count146
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen125
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count147
+\Field@Width=\dimen126
+\Fld@charsize=\dimen127
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+\Hy@abspage=\count148
+\c@Item=\count149
+\c@Hfootnote=\count150
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count151
+\c@bookmark@seq@number=\count152
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip63
+)
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 51.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 51.
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 51.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 51.
+Package hyperref Info: Option `colorlinks' set `true' on input line 51.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box29
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\pgf@xd=\dimen138
+\pgf@yd=\dimen139
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count153
+\c@pgf@countb=\count154
+\c@pgf@countc=\count155
+\c@pgf@countd=\count156
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+\pgf@sys@id@count=\count157
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count158
+\pgfsyssoftpath@bigbuffer@items=\count159
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen140
+\pgfmath@count=\count160
+\pgfmath@box=\box30
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count161
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen141
+\pgf@picmaxx=\dimen142
+\pgf@picminy=\dimen143
+\pgf@picmaxy=\dimen144
+\pgf@pathminx=\dimen145
+\pgf@pathmaxx=\dimen146
+\pgf@pathminy=\dimen147
+\pgf@pathmaxy=\dimen148
+\pgf@xx=\dimen149
+\pgf@xy=\dimen150
+\pgf@yx=\dimen151
+\pgf@yy=\dimen152
+\pgf@zx=\dimen153
+\pgf@zy=\dimen154
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen155
+\pgf@path@lasty=\dimen156
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen157
+\pgf@shorten@start@additional=\dimen158
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count162
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen159
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen160
+\pgf@pt@y=\dimen161
+\pgf@pt@temp=\dimen162
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen163
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen164
+\pgf@sys@shading@range@num=\count163
+\pgf@shadingcount=\count164
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box34
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box35
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen165
+\pgf@nodesepend=\dimen166
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen167
+\pgffor@skip=\dimen168
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count165
+\pgfplotmarksize=\dimen169
+)
+\tikz@lastx=\dimen170
+\tikz@lasty=\dimen171
+\tikz@lastxsaved=\dimen172
+\tikz@lastysaved=\dimen173
+\tikz@lastmovetox=\dimen174
+\tikz@lastmovetoy=\dimen175
+\tikzleveldistance=\dimen176
+\tikzsiblingdistance=\dimen177
+\tikz@figbox=\box36
+\tikz@figbox@bg=\box37
+\tikz@tempbox=\box38
+\tikz@tempbox@bg=\box39
+\tikztreelevel=\count166
+\tikznumberofchildren=\count167
+\tikznumberofcurrentchild=\count168
+\tikz@fig@count=\count169
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count170
+\pgfmatrixcurrentcolumn=\count171
+\pgf@matrix@numberofcolumns=\count172
+)
+\tikz@expandcount=\count173
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
+.code.tex
+File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+\c@@todonotes@numberoftodonotes=\count174
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'spanish'.
+ (./scriptbook.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ (./chapters/01b-intro.aux)
+(./chapters/02-cap1.aux) (./chapters/03-cap2.aux) (./chapters/04-cap3.aux)
+(./chapters/05-cap4.aux) (./chapters/06-cap5.aux) (./chapters/07-anexos.aux))
+\openout1 = `scriptbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+04.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Trying to load font information for T1+Alegreya-LF on input
+ line 104.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/alegreya/T1Alegreya-LF.fd
+File: T1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for T1/Alegreya-L
+F.
+)
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <10.95> not availab
+le
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 104.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 104.
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+\c@mv@tabular=\count175
+\c@mv@boldtabular=\count176
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count177
+\scratchdimen=\dimen178
+\scratchbox=\box40
+\nofMPsegments=\count178
+\nofMParguments=\count179
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count180
+\MPscratchDim=\dimen179
+\MPnumerator=\count181
+\makeMPintoPDFobject=\count182
+\everyMPtoPDFconversion=\toks39
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box41
+
+Typographic grid switched on
+Package hyperref Info: Link coloring ON on input line 104.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count183
+)
+LaTeX Info: Redefining \ref on input line 104.
+LaTeX Info: Redefining \pageref on input line 104.
+LaTeX Info: Redefining \nameref on input line 104.
+ (./scriptbook.out) (./scriptbook.out)
+\@outlinefile=\write4
+\openout4 = `scriptbook.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 104.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
+Package auxhook Info: \AddLineBeginMainAux comes a little late,
+(auxhook)             because the main .aux file is already opened on input lin
+e 168.
+\BKM@id=\count184
+))
+ABD: EveryShipout initializing macros
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 104.
+
+[1
+
+
+
+
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2
+
+]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <10.95> not availab
+le
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
+ine 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <14.4> not availabl
+e
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
+ine 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 107.
+LaTeX Font Info:    Trying to load font information for T1+AlegreyaSans-LF on i
+nput line 107.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/alegreya/T1AlegreyaSans-LF.fd
+File: T1AlegreyaSans-LF.fd 2019/10/08 (autoinst) Font definitions for T1/Alegre
+yaSans-LF.
+)
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/m/n' in size <10.95> not ava
+ilable
+(Font)              Font shape `T1/AlegreyaSans-LF/regular/n' tried instead on 
+input line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' in size <10.95> not ava
+ilable
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/n' tried instead on inp
+ut line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' in size <20.74> not ava
+ilable
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/n' tried instead on inp
+ut line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/n' will be
+(Font)              scaled to size 20.74pt on input line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' in size <12> not availa
+ble
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/n' tried instead on inp
+ut line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <14.4> not availabl
+e
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 107.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 107.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <14.4> not availab
+le
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 14.4pt on input line 107.
+ [3
+
+]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <10> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 107.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+Alegreya-LF on inpu
+t line 107.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+File: TS1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for TS1/Alegreya
+-LF.
+)
+LaTeX Font Info:    Font shape `TS1/Alegreya-LF/m/n' in size <10> not available
+
+(Font)              Font shape `TS1/Alegreya-LF/regular/n' tried instead on inp
+ut line 107.
+LaTeX Font Info:    Font shape `TS1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 107.
+Missing character: There is no 2 in font Alegreya-Regular-lf-ts1!
+Missing character: There is no 0 in font Alegreya-Regular-lf-ts1!
+Missing character: There is no 2 in font Alegreya-Regular-lf-ts1!
+Missing character: There is no 0 in font Alegreya-Regular-lf-ts1!
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+
+ []
+
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <10> not available
+
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 107.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <7> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 107.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 7.0pt on input line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/m/n' in size <10> not availa
+ble
+(Font)              Font shape `T1/AlegreyaSans-LF/regular/n' tried instead on 
+input line 107.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 107.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 10
+7.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/inconsolata/t1zi4.fd
+File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
+)
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 10.0pt on input line 107.
+ [4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+
+ []
+
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/m/it' in size <10> not avail
+able
+(Font)              Font shape `T1/AlegreyaSans-LF/regular/it' tried instead on
+ input line 113.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 113.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 113.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 113.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 113.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/sl' in size <10.95> not availa
+ble
+(Font)              Font shape `T1/Alegreya-LF/regular/sl' tried instead on inp
+ut line 115.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/sl' in size <10.95> not 
+available
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 115.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 115.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/sc' in size <10.95> not availa
+ble
+(Font)              Font shape `T1/Alegreya-LF/regular/sc' tried instead on inp
+ut line 115.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/sc' will be
+(Font)              scaled to size 10.95pt on input line 115.
+[5
+
+
+] [6
+
+
+] (./scriptbook.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package tocbasic Info: Using my definition of `\numberline' on input line 2.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/it' in size <10.95> not av
+ailable
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/it' tried instead on in
+put line 2.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/it' will be
+(Font)              scaled to size 10.95pt on input line 2.
+Package tocbasic Info: Using my definition of `\numberline' on input line 3.
+Package tocbasic Info: Using my definition of `\numberline' on input line 4.
+Package tocbasic Info: Using my definition of `\numberline' on input line 5.
+Package tocbasic Info: Using my definition of `\numberline' on input line 6.
+Package tocbasic Info: Using my definition of `\numberline' on input line 7.
+Package tocbasic Info: Using my definition of `\numberline' on input line 8.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <10.95> not availa
+ble
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 8.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 8.
+Package tocbasic Info: Using my definition of `\numberline' on input line 9.
+Package tocbasic Info: Using my definition of `\numberline' on input line 10.
+Package tocbasic Info: Using my definition of `\numberline' on input line 11.
+Package tocbasic Info: Using my definition of `\numberline' on input line 12.
+
+Overfull \hbox (6.08664pt too wide) in paragraph at lines 12--12
+ [][] [][][]\T1/Alegreya-LF/regular/n/10.95 ¾El enemi-go es el ca-pi-ta-lis-mo,
+ el Es-ta-do o los mer- 
+ []
+
+Package tocbasic Info: Using my definition of `\numberline' on input line 13.
+Package tocbasic Info: Using my definition of `\numberline' on input line 14.
+Package tocbasic Info: Using my definition of `\numberline' on input line 15.
+Package tocbasic Info: Using my definition of `\numberline' on input line 16.
+Package tocbasic Info: Using my definition of `\numberline' on input line 17.
+Package tocbasic Info: Using my definition of `\numberline' on input line 18.
+Package tocbasic Info: Using my definition of `\numberline' on input line 19.
+[7]
+Package tocbasic Info: Using my definition of `\numberline' on input line 20.
+Package tocbasic Info: Using my definition of `\numberline' on input line 21.
+Package tocbasic Info: Using my definition of `\numberline' on input line 22.
+Package tocbasic Info: Using my definition of `\numberline' on input line 23.
+Package tocbasic Info: Using my definition of `\numberline' on input line 24.
+Package tocbasic Info: Using my definition of `\numberline' on input line 25.
+Package tocbasic Info: Using my definition of `\numberline' on input line 26.
+Package tocbasic Info: Using my definition of `\numberline' on input line 27.
+Package tocbasic Info: Using my definition of `\numberline' on input line 28.
+Package tocbasic Info: Using my definition of `\numberline' on input line 29.
+Package tocbasic Info: Using my definition of `\numberline' on input line 30.
+Package tocbasic Info: Using my definition of `\numberline' on input line 31.
+Package tocbasic Info: Using my definition of `\numberline' on input line 32.
+Package tocbasic Info: Using my definition of `\numberline' on input line 33.
+Package tocbasic Info: Using my definition of `\numberline' on input line 34.
+Package tocbasic Info: Using my definition of `\numberline' on input line 35.
+Package tocbasic Info: Using my definition of `\numberline' on input line 36.
+Package tocbasic Info: Using my definition of `\numberline' on input line 37.
+Package tocbasic Info: Using my definition of `\numberline' on input line 38.
+Package tocbasic Info: Using my definition of `\numberline' on input line 39.
+Package tocbasic Info: Using my definition of `\numberline' on input line 40.
+)
+\tf@toc=\write5
+\openout5 = `scriptbook.toc'.
+
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+ [8] (./scriptbook.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package tocbasic Info: Using my definition of `\numberline' on input line 3.
+Package tocbasic Info: Using my definition of `\numberline' on input line 4.
+Package tocbasic Info: Using my definition of `\numberline' on input line 6.
+Package tocbasic Info: Using my definition of `\numberline' on input line 7.
+Package tocbasic Info: Using my definition of `\numberline' on input line 8.
+Package tocbasic Info: Using my definition of `\numberline' on input line 9.
+Package tocbasic Info: Using my definition of `\numberline' on input line 10.
+Package tocbasic Info: Using my definition of `\numberline' on input line 11.
+Package tocbasic Info: Using my definition of `\numberline' on input line 12.
+Package tocbasic Info: Using my definition of `\numberline' on input line 13.
+Package tocbasic Info: Using my definition of `\numberline' on input line 15.
+Package tocbasic Info: Using my definition of `\numberline' on input line 16.
+Package tocbasic Info: Using my definition of `\numberline' on input line 17.
+Package tocbasic Info: Using my definition of `\numberline' on input line 18.
+Package tocbasic Info: Using my definition of `\numberline' on input line 19.
+Package tocbasic Info: Using my definition of `\numberline' on input line 20.
+Package tocbasic Info: Using my definition of `\numberline' on input line 21.
+Package tocbasic Info: Using my definition of `\numberline' on input line 22.
+Package tocbasic Info: Using my definition of `\numberline' on input line 23.
+Package tocbasic Info: Using my definition of `\numberline' on input line 24.
+Package tocbasic Info: Using my definition of `\numberline' on input line 25.
+Package tocbasic Info: Using my definition of `\numberline' on input line 26.
+ [9
+
+
+]
+Package tocbasic Info: Using my definition of `\numberline' on input line 27.
+Package tocbasic Info: Using my definition of `\numberline' on input line 29.
+Package tocbasic Info: Using my definition of `\numberline' on input line 30.
+Package tocbasic Info: Using my definition of `\numberline' on input line 31.
+Package tocbasic Info: Using my definition of `\numberline' on input line 32.
+Package tocbasic Info: Using my definition of `\numberline' on input line 33.
+Package tocbasic Info: Using my definition of `\numberline' on input line 35.
+
+Overfull \hbox (0.30493pt too wide) in paragraph at lines 35--35
+ [][] [][][]\T1/Alegreya-LF/regular/n/10.95 Interacción en-tre prác-ti-cas elec
+-to-ra-les, teó-ri-cas, 
+ []
+
+Package tocbasic Info: Using my definition of `\numberline' on input line 36.
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 10.95pt on input line 36.
+Package tocbasic Info: Using my definition of `\numberline' on input line 37.
+Package tocbasic Info: Using my definition of `\numberline' on input line 39.
+Package tocbasic Info: Using my definition of `\numberline' on input line 40.
+Package tocbasic Info: Using my definition of `\numberline' on input line 41.
+Package tocbasic Info: Using my definition of `\numberline' on input line 42.
+Package tocbasic Info: Using my definition of `\numberline' on input line 44.
+)
+\tf@lof=\write6
+\openout6 = `scriptbook.lof'.
+
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
+ [10] (./scriptbook.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package tocbasic Info: Using my definition of `\numberline' on input line 5.
+)
+\tf@lot=\write7
+\openout7 = `scriptbook.lot'.
+
+ [11
+
+
+] [12
+
+
+] (./scriptbook.tdo [13]
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [14]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [15]
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+ [16])
+\tf@tdo=\write8
+\openout8 = `scriptbook.tdo'.
+
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+
+[17] [18
+
+
+]
+\openout2 = `chapters/01b-intro.aux'.
+
+ (./chapters/01b-intro.tex
+chapter 1.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/it' in size <20.74> not av
+ailable
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/it' tried instead on in
+put line 1.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/it' will be
+(Font)              scaled to size 20.74pt on input line 1.
+
+Overfull \hbox (0.39256pt too wide) in paragraph at lines 4--5
+\T1/Alegreya-LF/regular/n/10.95 za-mos al-re-de-dor de cin-co años de in-ves-ti
+-ga-ción de nues-tro com-
+ []
+
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <8> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 6.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 6.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <9> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 6.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 6.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <6> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 6.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 6.0pt on input line 6.
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 9.0pt on input line 6.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 6.
+
+Overfull \hbox (3.10966pt too wide) in paragraph at lines 6--7
+\T1/Alegreya-LF/regular/n/10.95 cons-truc-ción con-tem-po-rá-nea de lo po-lí-ti
+-co. 
+ []
+
+[1
+
+
+
+]
+<images/wikipartido.png, id=453, 211.79124pt x 90.3375pt>
+File: images/wikipartido.png Graphic file (type png)
+<use images/wikipartido.png>
+Package pdftex.def Info: images/wikipartido.png  used on input line 10.
+(pdftex.def)             Requested size: 211.79073pt x 90.33727pt.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+Overfull \hbox (1.1699pt too wide) in paragraph at lines 17--18
+\T1/Alegreya-LF/regular/n/10.95 rup-ti-va, in-te-li-gen-cia co-lec-ti-va, pe-da
+-go-gía po-lí-ti-ca, aper-tu-ra e in-
+ []
+
+
+Overfull \hbox (1.59697pt too wide) in paragraph at lines 17--18
+\T1/Alegreya-LF/regular/n/10.95 ten-ta-bi-li-dad. Sin em-bar-go, es-te mar-co é
+ti-co tie-ne pro-ble-mas im-
+ []
+
+
+Overfull \hbox (2.02408pt too wide) in paragraph at lines 17--18
+\T1/Alegreya-LF/regular/n/10.95 prin-ci-pios, por-que su in-ter-pre-ta-ción de-
+pen-de de la po-si-ción des-
+ []
+
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+[2 <./images/wikipartido.png>]
+Overfull \hbox (5.8581pt too wide) in paragraph at lines 21--22
+\T1/Alegreya-LF/regular/n/10.95 pro-yec-to de na-tu-ra-le-za []ra[]-[]di[]-[]ca
+l[]-[]men[]-[]te[] [][][]pi[]-[]ra[]-[]ta[][][]. 
+ []
+
+[3]
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+<images/reemplazarles.jpg, id=463, 770.88pt x 480.79625pt>
+File: images/reemplazarles.jpg Graphic file (type jpg)
+<use images/reemplazarles.jpg>
+Package pdftex.def Info: images/reemplazarles.jpg  used on input line 25.
+(pdftex.def)             Requested size: 278.73355pt x 173.84215pt.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+[4 <./images/reemplazarles.jpg>]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <8> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 34.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 8.0pt on input line 34.
+ [5]
+Overfull \hbox (15.01097pt too wide) in paragraph at lines 43--44
+[]\T1/Alegreya-LF/regular/n/10.95 ¾cómo con-ci-lia-mos to-das es-tas co-sas que
+ he-mos apren-
+ []
+
+
+Overfull \hbox (0.39252pt too wide) in paragraph at lines 46--47
+\T1/Alegreya-LF/regular/n/10.95 pa-tos, ¾có-mo crea-ría-mos otras for-mas de po
+-der? ¾Por qué desea-
+ []
+
+
+Overfull \hbox (6.82181pt too wide) in paragraph at lines 46--47
+\T1/Alegreya-LF/regular/n/10.95 una cul-tu-ra del en-cuen-tro y no del con-su-m
+o? 
+ []
+
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+[6]
+
+LaTeX Warning: Marginpar on page 7 moved.
+
+
+LaTeX Warning: Marginpar on page 7 moved.
+
+
+Overfull \hbox (4.13742pt too wide) in paragraph at lines 50--51
+\T1/Alegreya-LF/regular/n/10.95 fra-es-truc-tu-ra tec-no-ló-gi-ca, pa-ra in-no-
+var con las he-rra-mien-tas que
+ []
+
+
+LaTeX Warning: Marginpar on page 7 moved.
+
+) [7]
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
+ [8]
+\openout2 = `chapters/02-cap1.aux'.
+
+ (./chapters/02-cap1.tex
+chapter 2.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' in size <14.4> not avai
+lable
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/n' tried instead on inp
+ut line 4.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 4.
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+[9
+
+
+
+
+]
+<images/creative-commons.png, id=492, 920.43875pt x 903.375pt>
+File: images/creative-commons.png Graphic file (type png)
+<use images/creative-commons.png>
+Package pdftex.def Info: images/creative-commons.png  used on input line 13.
+(pdftex.def)             Requested size: 222.98769pt x 218.8545pt.
+
+Overfull \hbox (5.06818pt too wide) in paragraph at lines 20--21
+\T1/Alegreya-LF/regular/n/10.95 ha-cia un enemi-go abs-trac-to (los cri-mi-na-l
+es, las dro-gas, ^^P  el enemi-
+ []
+
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+[10]
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [11 <./images/creative-commons.png>]
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ [12]
+<images/reptilianos.png, id=507, 960.58875pt x 533.995pt>
+File: images/reptilianos.png Graphic file (type png)
+<use images/reptilianos.png>
+Package pdftex.def Info: images/reptilianos.png  used on input line 34.
+(pdftex.def)             Requested size: 250.85849pt x 139.44653pt.
+
+Overfull \hbox (9.93161pt too wide) in paragraph at lines 39--40
+\T1/Alegreya-LF/regular/n/10.95 de quien sea y de cual-quier da-ño al am-bien-t
+e. 
+ []
+
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+[13]
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+ [14 <./images/reptilianos.png>]
+Overfull \hbox (3.06445pt too wide) in paragraph at lines 45--45
+[][][]\T1/Alegreya-LF/regular/n/8 Contradicción 
+ []
+
+
+Overfull \hbox (3.06445pt too wide) in paragraph at lines 45--45
+[][][]\T1/Alegreya-LF/regular/n/8 Contradicción 
+ []
+
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <9> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 45.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 9.0pt on input line 45.
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+<images/132.jpg, id=518, 653.44125pt x 401.5pt>
+File: images/132.jpg Graphic file (type jpg)
+<use images/132.jpg>
+Package pdftex.def Info: images/132.jpg  used on input line 52.
+(pdftex.def)             Requested size: 250.85849pt x 154.1338pt.
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
+[15]
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+ [16 <./images/132.jpg>]
+Overfull \hbox (4.04048pt too wide) in paragraph at lines 66--67
+\T1/Alegreya-LF/regular/n/10.95 por ella mis-ma de lo que quie-res ha-cer-le ve
+r. 
+ []
+
+
+Overfull \hbox (3.31618pt too wide) in paragraph at lines 70--71
+\T1/Alegreya-LF/regular/n/10.95 la cri-sis que vi-vi-mos dia-ria-men-te, nues-t
+ra ex-pe-rien-cia de la reali-
+ []
+
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+[17]
+<images/xf.jpg, id=532, 225.84375pt x 225.84375pt>
+File: images/xf.jpg Graphic file (type jpg)
+<use images/xf.jpg>
+Package pdftex.def Info: images/xf.jpg  used on input line 76.
+(pdftex.def)             Requested size: 167.24182pt x 167.2527pt.
+
+Overfull \hbox (2.63727pt too wide) in paragraph at lines 85--86
+[]\T1/Alegreya-LF/regular/n/10.95 Hemos vis-to con tris-te-za que mu-chos mo-vi
+-mien-tos po-lí-ti-cos car-
+ []
+
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+[18]
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+ [19 <./images/xf.jpg>]
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
+ [20]
+<images/century.jpg, id=546, 240.9pt x 182.6825pt>
+File: images/century.jpg Graphic file (type jpg)
+<use images/century.jpg>
+Package pdftex.def Info: images/century.jpg  used on input line 95.
+(pdftex.def)             Requested size: 240.8994pt x 182.68204pt.
+
+
+LaTeX Warning: Marginpar on page 21 moved.
+
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/it' in size <12> not avail
+able
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/it' tried instead on in
+put line 103.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/it' will be
+(Font)              scaled to size 12.0pt on input line 103.
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
+[21]
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
+ [22 <./images/century.jpg>]
+<images/ideology1.png, id=555, 963.6pt x 542.025pt>
+File: images/ideology1.png Graphic file (type png)
+<use images/ideology1.png>
+Package pdftex.def Info: images/ideology1.png  used on input line 115.
+(pdftex.def)             Requested size: 250.85849pt x 141.10512pt.
+<images/ideology2.png, id=556, 963.6pt x 542.025pt>
+File: images/ideology2.png Graphic file (type png)
+<use images/ideology2.png>
+Package pdftex.def Info: images/ideology2.png  used on input line 121.
+(pdftex.def)             Requested size: 250.85849pt x 141.10512pt.
+
+Underfull \hbox (badness 3861) in paragraph at lines 125--125
+  [][][]\T1/Alegreya-LF/regular/n/9 Salud co-mo buen vi-vir, por en-ci-ma de la
+ con-cep-ción que de-fi-ne la
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 125--125
+ \T1/Alegreya-LF/regular/n/9 sa-lud en sen-ti-do ne-ga-ti-vo, co-mo au-sen-cia 
+de en-fer-me-dad, co-mo lo
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 125--125
+ \T1/Alegreya-LF/regular/n/9 mí-ni-mo ne-ce-sa-rio pa-ra que las per-so-nas es-
+tén ap-tas pa-ra pro-du-
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 125--125
+ \T1/Alegreya-LF/regular/n/9 cir. [][]$\T1/zi4/m/n/9 h t t p s : / / w w w . t 
+h e g u a r d i a n . c o m / s u s t a i n a b l e-[] b u s i n e s s / b l o 
+g / b
+ []
+
+LaTeX Info: Redefining \. on input line 126.
+LaTeX Info: Redefining \% on input line 126.
+[23]
+LaTeX Info: Redefining \. on input line 126.
+LaTeX Info: Redefining \% on input line 126.
+ [24 <./images/ideology1.png (PNG copy)> <./images/ideology2.png (PNG copy)>]
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
+ [25]
+Overfull \hbox (6.30553pt too wide) in paragraph at lines 131--132
+\T1/Alegreya-LF/regular/n/10.95 for-za-dos por me-ga-pro-yec-tos y otras im-po-
+si-cio-nes es-ta-ta-les. Fren-
+ []
+
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+[26]
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
+ [27]
+LaTeX Info: Redefining \. on input line 147.
+LaTeX Info: Redefining \% on input line 147.
+ [28]
+<images/decidim-context.png, id=586, 534.0753pt x 377.61075pt>
+File: images/decidim-context.png Graphic file (type png)
+<use images/decidim-context.png>
+Package pdftex.def Info: images/decidim-context.png  used on input line 150.
+(pdftex.def)             Requested size: 250.85849pt x 177.3676pt.
+
+Overfull \hbox (14.35843pt too wide) in paragraph at lines 155--156
+[]\T1/Alegreya-LF/regular/n/10.95 También ne-ce-si-ta-mos pro-ce-di-mien-tos de
+ crea-ción co-lec-ti-va.[][][][][] Crear
+ []
+
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
+[29 <./images/decidim-context.png>]
+Overfull \hbox (7.71815pt too wide) in paragraph at lines 160--161
+\T1/Alegreya-LF/regular/n/10.95 no-lo-gías que trans-for-man nues-tro de-seo en
+ un ca-nal pa-ra la trans-
+ []
+
+LaTeX Info: Redefining \. on input line 161.
+LaTeX Info: Redefining \% on input line 161.
+[30]
+LaTeX Info: Redefining \. on input line 163.
+LaTeX Info: Redefining \% on input line 163.
+ [31])
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
+ [32]
+\openout2 = `chapters/03-cap2.aux'.
+
+ (./chapters/03-cap2.tex
+chapter 3.
+<images/zombie.jpg, id=611, 833.1125pt x 833.1125pt>
+File: images/zombie.jpg Graphic file (type jpg)
+<use images/zombie.jpg>
+Package pdftex.def Info: images/zombie.jpg  used on input line 12.
+(pdftex.def)             Requested size: 278.73355pt x 278.72894pt.
+[33
+
+
+
+
+]
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ [34 <./images/zombie.jpg>]
+Overfull \hbox (38.59863pt too wide) in paragraph at lines 35--36
+\T1/Alegreya-LF/regular/n/10.95 pen-de en bue-na me-di-da de dón-de es-ta-mos p
+a-ra-das. 
+ []
+
+[35]
+Overfull \hbox (8.22183pt too wide) in paragraph at lines 43--44
+\T1/Alegreya-LF/regular/n/10.95 gen, de di-se-ño, so-bre las tec-no-lo-gías que
+ con-fi-gu-ran nues-tra reali-
+ []
+
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+[36]
+Overfull \hbox (21.64804pt too wide) in paragraph at lines 50--51
+\T1/Alegreya-LF/regular/n/10.95 Pon-ga us-ted mu-cha aten-ción por-que ahí va-m
+os: 
+ []
+
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+[37]
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+ [38]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [39]
+<images/taxonomy-of-goods.png, id=657, 414.04688pt x 293.59688pt>
+File: images/taxonomy-of-goods.png Graphic file (type png)
+<use images/taxonomy-of-goods.png>
+Package pdftex.def Info: images/taxonomy-of-goods.png  used on input line 62.
+(pdftex.def)             Requested size: 250.85849pt x 177.88425pt.
+
+Overfull \hbox (50.73112pt too wide) in paragraph at lines 68--69
+\T1/Alegreya-LF/regular/n/10.95 de pro-duc-ción pa-ra el ci-clo eco-nó-mi-co de
+l ca-pi-ta-lis-mo. 
+ []
+
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+[40 <./images/taxonomy-of-goods.png>]
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [41]
+<images/algorithm-capitalism.png, id=667, 1003.75pt x 1003.75pt>
+File: images/algorithm-capitalism.png Graphic file (type png)
+<use images/algorithm-capitalism.png>
+Package pdftex.def Info: images/algorithm-capitalism.png  used on input line 76
+.
+(pdftex.def)             Requested size: 250.85849pt x 250.8603pt.
+
+Overfull \hbox (1.84883pt too wide) in paragraph at lines 82--83
+\T1/Alegreya-LF/regular/n/10.95 pro-du-cen in-ter-ac-cio-nes so-cia-les a tra-v
+és del in-ter-cam-bio. La per-
+ []
+
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+[42]
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+ [43 <./images/algorithm-capitalism.png>]
+Overfull \hbox (7.96057pt too wide) in paragraph at lines 89--90
+\T1/Alegreya-LF/regular/n/10.95 trans-for-man en el Bio-po-der y el Es-pec-tácu
+-lo. 
+ []
+
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+[44]
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+ [45]
+Overfull \hbox (0.47998pt too wide) in paragraph at lines 98--99
+[]\T1/Alegreya-LF/regular/n/10.95 los mi-li-ta-res, la po-li-cía, la in-te-li-g
+en-
+ []
+
+
+Overfull \hbox (1.06036pt too wide) in paragraph at lines 100--101
+[]\T1/Alegreya-LF/regular/n/10.95 subjetividades co-lo-ni-za-das, gru-
+ []
+
+
+Overfull \hbox (1.50954pt too wide) in paragraph at lines 100--101
+\T1/Alegreya-LF/regular/n/10.95 da-da-nos me-dian-te la otre-dad co-mo di-fe-re
+n-cia-ción de sub-
+ []
+
+<images/hierarchy-piramid.png, id=691, 602.25pt x 315.1775pt>
+File: images/hierarchy-piramid.png Graphic file (type png)
+<use images/hierarchy-piramid.png>
+Package pdftex.def Info: images/hierarchy-piramid.png  used on input line 107.
+(pdftex.def)             Requested size: 250.85849pt x 131.28195pt.
+LaTeX Info: Redefining \. on input line 113.
+LaTeX Info: Redefining \% on input line 113.
+[46]
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+ [47 <./images/hierarchy-piramid.png>]
+<images/nofap.png, id=706, 297.11pt x 113.42375pt>
+File: images/nofap.png Graphic file (type png)
+<use images/nofap.png>
+Package pdftex.def Info: images/nofap.png  used on input line 118.
+(pdftex.def)             Requested size: 250.85849pt x 95.77026pt.
+
+Overfull \hbox (26.54276pt too wide) in paragraph at lines 123--124
+\T1/Alegreya-LF/regular/n/10.95 ble una vez que se ob-tie-ne y pa-ten-ta una fó
+r-mu-la. 
+ []
+
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
+[48 <./images/nofap.png>]
+<images/pillAd1.png, id=716, 429.605pt x 600.2425pt>
+File: images/pillAd1.png Graphic file (type png)
+<use images/pillAd1.png>
+Package pdftex.def Info: images/pillAd1.png  used on input line 127.
+(pdftex.def)             Requested size: 278.73355pt x 389.44775pt.
+<images/pillAd2.jpg, id=717, 513.92pt x 598.235pt>
+File: images/pillAd2.jpg Graphic file (type jpg)
+<use images/pillAd2.jpg>
+Package pdftex.def Info: images/pillAd2.jpg  used on input line 134.
+(pdftex.def)             Requested size: 278.73355pt x 324.46611pt.
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+ [49]
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+ [50 <./images/pillAd1.png>]
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+ [51 <./images/pillAd2.jpg>]
+<images/burguers.jpg, id=733, 481.8pt x 537.50812pt>
+File: images/burguers.jpg Graphic file (type jpg)
+<use images/burguers.jpg>
+Package pdftex.def Info: images/burguers.jpg  used on input line 143.
+(pdftex.def)             Requested size: 278.73355pt x 310.96756pt.
+LaTeX Info: Redefining \. on input line 152.
+LaTeX Info: Redefining \% on input line 152.
+ [52]
+LaTeX Info: Redefining \. on input line 152.
+LaTeX Info: Redefining \% on input line 152.
+ [53 <./images/burguers.jpg>]
+<images/complicated.jpg, id=744, 602.25pt x 339.2675pt>
+File: images/complicated.jpg Graphic file (type jpg)
+<use images/complicated.jpg>
+Package pdftex.def Info: images/complicated.jpg  used on input line 157.
+(pdftex.def)             Requested size: 250.85849pt x 141.31624pt.
+
+Overfull \hbox (58.73564pt too wide) in paragraph at lines 162--163
+\T1/Alegreya-LF/regular/n/10.95 je-ti-vi-dad de ciu-da-dano sol-da-do con-su-mi
+-dor es-pec-ta-dor: 
+ []
+
+LaTeX Info: Redefining \. on input line 169.
+LaTeX Info: Redefining \% on input line 169.
+[54]
+LaTeX Info: Redefining \. on input line 177.
+LaTeX Info: Redefining \% on input line 177.
+ [55 <./images/complicated.jpg>]
+Overfull \hbox (7.57571pt too wide) in paragraph at lines 178--179
+\T1/Alegreya-LF/regular/n/10.95 in-di-vi-duo re-ci-be una trans-mi-sión úni-ca 
+gra-cias a al-go-rit-mos reac-
+ []
+
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
+[56]
+Overfull \hbox (50.30417pt too wide) in paragraph at lines 182--183
+\T1/Alegreya-LF/regular/n/10.95 pre-gun-tas re-fe-ren-tes a la cues-tión de los
+ me-dios co-mo: 
+ []
+
+
+Overfull \hbox (6.16324pt too wide) in paragraph at lines 185--186
+\T1/Alegreya-LF/regular/n/10.95 tify y pla-ta-for-mas en lí-nea ade-más de Dis-
+ney, Di-recTv, War-
+ []
+
+<images/roads.jpg, id=761, 144.54pt x 81.1833pt>
+File: images/roads.jpg Graphic file (type jpg)
+<use images/roads.jpg>
+Package pdftex.def Info: images/roads.jpg  used on input line 194.
+(pdftex.def)             Requested size: 250.85849pt x 140.90599pt.
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
+[57]
+LaTeX Info: Redefining \. on input line 200.
+LaTeX Info: Redefining \% on input line 200.
+ [58 <./images/roads.jpg>]
+Overfull \hbox (9.2839pt too wide) in paragraph at lines 202--203
+[]\T1/Alegreya-LF/regular/n/10.95 entender a los re-pre-sen-tan-tes co-mo tra-
+ []
+
+
+LaTeX Warning: Marginpar on page 59 moved.
+
+LaTeX Info: Redefining \. on input line 207.
+LaTeX Info: Redefining \% on input line 207.
+[59]
+<images/solidarity-economy.jpg, id=776, 96.36pt x 74.4381pt>
+File: images/solidarity-economy.jpg Graphic file (type jpg)
+<use images/solidarity-economy.jpg>
+Package pdftex.def Info: images/solidarity-economy.jpg  used on input line 213.
+
+(pdftex.def)             Requested size: 250.85849pt x 193.78886pt.
+<images/circular-economy.png, id=777, 501.875pt x 461.725pt>
+File: images/circular-economy.png Graphic file (type png)
+<use images/circular-economy.png>
+Package pdftex.def Info: images/circular-economy.png  used on input line 222.
+(pdftex.def)             Requested size: 250.85849pt x 230.79147pt.
+LaTeX Info: Redefining \. on input line 228.
+LaTeX Info: Redefining \% on input line 228.
+ [60]
+LaTeX Info: Redefining \. on input line 228.
+LaTeX Info: Redefining \% on input line 228.
+ [61 <./images/solidarity-economy.jpg>]
+LaTeX Info: Redefining \. on input line 228.
+LaTeX Info: Redefining \% on input line 228.
+ [62 <./images/circular-economy.png (PNG copy)>]
+Overfull \hbox (14.99042pt too wide) in paragraph at lines 231--232
+\T1/Alegreya-LF/regular/n/10.95 can-til en es-truc-tu-ras eco-nó-mi-cas pro-duc
+-ti-vas. 
+ []
+
+<images/artAfterMoney.jpg, id=791, 315.1775pt x 501.875pt>
+File: images/artAfterMoney.jpg Graphic file (type jpg)
+<use images/artAfterMoney.jpg>
+Package pdftex.def Info: images/artAfterMoney.jpg  used on input line 235.
+(pdftex.def)             Requested size: 167.24182pt x 266.30646pt.
+)
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
+ [63]
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
+ [64 <./images/artAfterMoney.jpg>]
+\openout2 = `chapters/04-cap3.aux'.
+
+ (./chapters/04-cap3.tex
+chapter 4.
+
+Overfull \hbox (0.19542pt too wide) in paragraph at lines 9--10
+\T1/Alegreya-LF/regular/n/10.95 co-aná-li-sis, et-cé-te-ra) sa-ta-ni-zan la fi-
+lo-so-fía del ha-cer efec-ti-vo y efi-
+ []
+
+[65
+
+
+
+
+]
+<images/green.jpg, id=804, 246.6816pt x 164.5347pt>
+File: images/green.jpg Graphic file (type jpg)
+<use images/green.jpg>
+Package pdftex.def Info: images/green.jpg  used on input line 13.
+(pdftex.def)             Requested size: 222.98769pt x 148.73509pt.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [66]
+<images/self-dimensions.png, id=809, 640.3925pt x 639.38875pt>
+File: images/self-dimensions.png Graphic file (type png)
+<use images/self-dimensions.png>
+Package pdftex.def Info: images/self-dimensions.png  used on input line 24.
+(pdftex.def)             Requested size: 278.73355pt x 278.29771pt.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [67 <./images/green.jpg>]
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [68 <./images/self-dimensions.png>]
+<images/he4she.jpg, id=821, 903.375pt x 481.8pt>
+File: images/he4she.jpg Graphic file (type jpg)
+<use images/he4she.jpg>
+Package pdftex.def Info: images/he4she.jpg  used on input line 36.
+(pdftex.def)             Requested size: 278.73355pt x 148.65804pt.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+
+[69]
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+ [70 <./images/he4she.jpg>]
+Overfull \hbox (74.61311pt too wide) in paragraph at lines 46--47
+\T1/Alegreya-LF/regular/n/10.95 cio-nes pú-bli-cas a te-ner pro-ce-sos y pa-tro
+-nes de cul-tu-ra FLOS. 
+ []
+
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+[71]
+Overfull \hbox (6.46597pt too wide) in paragraph at lines 52--53
+[][][]$\T1/zi4/m/n/10.95 h t tp : / / u n e n u m e r a t e d . b l o g s p o t
+ . c o m / 2 0 1 7 / 0 2 / m o n e y-[] b l o c k
+ []
+
+
+Overfull \hbox (1.81738pt too wide) in paragraph at lines 52--53
+\T1/zi4/m/n/10.95 c h a i n s -[] a n d -[] s o c i a l-[] s c a l a b i l i t 
+y . h t m l$[][] 
+ []
+
+
+Overfull \hbox (1.49098pt too wide) in paragraph at lines 54--55
+[][][]$\T1/zi4/m/n/10.95 h t tp : / / u n e n u m e r a t e d . b l o g s p o t
+ . c o m / 2 0 0 6 / 1 1 / w e t-[] c o d e-[] a
+ []
+
+<images/low-tech.jpeg, id=838, 803.0pt x 655.44875pt>
+File: images/low-tech.jpeg Graphic file (type jpg)
+<use images/low-tech.jpeg>
+Package pdftex.def Info: images/low-tech.jpeg  used on input line 58.
+(pdftex.def)             Requested size: 250.85849pt x 204.75722pt.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+[72 <./images/low-tech.jpeg>]
+<images/potlatch.jpg, id=845, 401.5pt x 231.86626pt>
+File: images/potlatch.jpg Graphic file (type jpg)
+<use images/potlatch.jpg>
+Package pdftex.def Info: images/potlatch.jpg  used on input line 72.
+(pdftex.def)             Requested size: 278.73355pt x 160.97852pt.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [73]
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
+ [74 <./images/potlatch.jpg>]
+Overfull \hbox (10.19438pt too wide) in paragraph at lines 83--84
+\T1/Alegreya-LF/regular/n/10.95 so lle-guen a me-dios ma-si-vos in-ter-na-cio-n
+a-les. 
+ []
+
+
+Overfull \hbox (21.62605pt too wide) in paragraph at lines 88--89
+\T1/Alegreya-LF/regular/n/10.95 co-mún pa-ra in-cen-ti-var la par-ti-ci-pa-ción
+ po-lí-ti-ca. 
+ []
+
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+[75])
+LaTeX Info: Redefining \. on input line 125.
+LaTeX Info: Redefining \% on input line 125.
+ [76]
+LaTeX Info: Redefining \. on input line 125.
+LaTeX Info: Redefining \% on input line 125.
+ [77]
+\openout2 = `chapters/05-cap4.aux'.
+
+ (./chapters/05-cap4.tex [78
+
+
+
+
+]
+chapter 5.
+[79]
+Overfull \hbox (12.64713pt too wide) in paragraph at lines 13--14
+\T1/Alegreya-LF/regular/n/10.95 má-ti-ca-men-te pa-ra la ma-yo-ría de las per-s
+o-nas. 
+ []
+
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+[80]
+Overfull \hbox (3.07533pt too wide) in paragraph at lines 17--18
+\T1/Alegreya-LF/regular/n/10.95 ten-cia de un sis-te-ma que bus-ca ga-nar, un m
+o-vi-mien-to so-cial pue-
+ []
+
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+[81]
+<images/spheres-practices.png, id=886, 1027.84pt x 542.025pt>
+File: images/spheres-practices.png Graphic file (type png)
+<use images/spheres-practices.png>
+Package pdftex.def Info: images/spheres-practices.png  used on input line 21.
+(pdftex.def)             Requested size: 250.85849pt x 132.28864pt.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ [82]
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+ [83 <./images/spheres-practices.png>]
+<images/caltra.jpg, id=896, 451.6875pt x 227.85126pt>
+File: images/caltra.jpg Graphic file (type jpg)
+<use images/caltra.jpg>
+Package pdftex.def Info: images/caltra.jpg  used on input line 33.
+(pdftex.def)             Requested size: 250.85849pt x 126.54585pt.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [84]
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+ [85 <./images/caltra.jpg>]
+Overfull \hbox (4.01698pt too wide) in paragraph at lines 43--44
+\T1/Alegreya-LF/regular/n/10.95 for-man-ce o la tác-ti-ca del bri-ga-deo. Ope-r
+a-cio-nes orien-ta-das a pro-
+ []
+
+
+Overfull \hbox (11.22208pt too wide) in paragraph at lines 43--44
+\T1/Alegreya-LF/regular/n/10.95 co-mo los hac-kers-pa-ces. Me-to-do-lo-gías de 
+or-ga-ni-za-ción pa-ra y desa-
+ []
+
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+[86]
+Overfull \hbox (4.0186pt too wide) in paragraph at lines 45--46
+\T1/Alegreya-LF/regular/n/10.95 rios pa-ra or-ga-ni-zar-nos en torno a lo co-mú
+n. 
+ []
+
+
+Overfull \hbox (1.25758pt too wide) in paragraph at lines 47--48
+\T1/Alegreya-LF/regular/n/10.95 or-ga-ni-za-ción po-de-ro-sa. Abrir la or-ga-ni
+-za-ción con un mo-vi-mien-
+ []
+
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+[87]
+Overfull \hbox (2.53873pt too wide) in paragraph at lines 54--60
+\T1/Alegreya-LF/regular/n/10.95 tex-to de ins-ti-tu-cio-na-li-dad y re-glas del
+ jue-go pro-pias de ca-da arre-
+ []
+
+
+Overfull \hbox (14.4867pt too wide) in paragraph at lines 54--60
+\T1/Alegreya-LF/regular/n/10.95 pro-ble-mas prin-ci-pa-les a re-sol-ver, por ej
+em-plo: 
+ []
+
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+[88]
+Overfull \hbox (6.5792pt too wide) in paragraph at lines 79--80
+[]\T1/Alegreya-LF/regular/n/10.95 abolir las al-tas ta-sas co-bra-das por
+ []
+
+
+Overfull \hbox (8.68178pt too wide) in paragraph at lines 90--91
+\T1/Alegreya-LF/regular/n/10.95 re-sen-ti-mien-tos o com-por-ta-mien-tos tó-xi-
+cos que sien-ten pla-
+ []
+
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+[89]
+Overfull \hbox (8.87868pt too wide) in paragraph at lines 92--93
+[]\T1/Alegreya-LF/regular/n/10.95 Construcción de una cul-
+ []
+
+<images/nudge.jpg, id=926, 898.35625pt x 1470.49374pt>
+File: images/nudge.jpg Graphic file (type jpg)
+<use images/nudge.jpg>
+Package pdftex.def Info: images/nudge.jpg  used on input line 97.
+(pdftex.def)             Requested size: 250.85849pt x 410.61356pt.
+
+LaTeX Warning: Float too large for page by 43.41338pt on input line 100.
+
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
+[90]
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
+ [91 <./images/nudge.jpg>]
+
+LaTeX Warning: Marginpar on page 92 moved.
+
+
+LaTeX Warning: Marginpar on page 92 moved.
+
+
+LaTeX Warning: Marginpar on page 92 moved.
+
+
+LaTeX Warning: Marginpar on page 92 moved.
+
+)
+Overfull \hbox (18.75565pt too wide) in paragraph at lines 113--126
+[]\T1/Alegreya-LF/regular/n/10.95 Github: The Git-Hub De-ba-cle and Why Ho-la-c
+racy is Bulls-hit (counter-
+ []
+
+
+Overfull \hbox (1.07135pt too wide) in paragraph at lines 113--126
+\T1/Alegreya-LF/regular/n/10.95 response) [][]$\T1/zi4/m/n/10.95 h t tp : / / c
+ b r a c y . t u m b l r . c o m / p o s t / 7 9 8 7 6 9 5 7 1 9 8 / t
+ []
+
+
+Overfull \hbox (74.99226pt too wide) in paragraph at lines 113--126
+\T1/zi4/m/n/10.95 h e -[] g i t h u b-[] d e b a c l e -[] a n d -[] w h y -[] 
+h o l a c r a c y -[] i s-[] b u l l s h i t$[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 126.
+LaTeX Info: Redefining \% on input line 126.
+[92]
+\openout2 = `chapters/06-cap5.aux'.
+
+ (./chapters/06-cap5.tex
+chapter 6.
+<images/leo-silvestri.jpg, id=943, 813.0375pt x 542.025pt>
+File: images/leo-silvestri.jpg Graphic file (type jpg)
+<use images/leo-silvestri.jpg>
+Package pdftex.def Info: images/leo-silvestri.jpg  used on input line 8.
+(pdftex.def)             Requested size: 195.11263pt x 130.07211pt.
+[93
+
+
+
+
+]
+<images/autonomyWork.png, id=948, 226.8475pt x 223.83624pt>
+File: images/autonomyWork.png Graphic file (type png)
+<use images/autonomyWork.png>
+Package pdftex.def Info: images/autonomyWork.png  used on input line 22.
+(pdftex.def)             Requested size: 167.24182pt x 165.02144pt.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ [94 <./images/leo-silvestri.jpg>]
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ [95 <./images/autonomyWork.png>]
+<images/contrapoints.png, id=960, 501.875pt x 282.05376pt>
+File: images/contrapoints.png Graphic file (type png)
+<use images/contrapoints.png>
+Package pdftex.def Info: images/contrapoints.png  used on input line 35.
+(pdftex.def)             Requested size: 250.85849pt x 140.98347pt.
+
+Overfull \hbox (7.57729pt too wide) in paragraph at lines 44--45
+\T1/Alegreya-LF/regular/n/10.95 cos y fi-nan-cie-ros que pro-du-ce el ca-pi-ta-
+lis-mo. 
+ []
+
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+[96 <./images/contrapoints.png>]
+<images/maslow.png, id=966, 351.3125pt x 228.855pt>
+File: images/maslow.png Graphic file (type png)
+<use images/maslow.png>
+Package pdftex.def Info: images/maslow.png  used on input line 48.
+(pdftex.def)             Requested size: 250.85849pt x 163.42055pt.
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+ [97 <./images/maslow.png>])
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
+ [98]
+\openout2 = `chapters/07-anexos.aux'.
+
+
+(./chapters/07-anexos.tex
+chapter without number
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+ \T1/zi4/m/n/9 t i c i p a t o r y O r g s / P a r t i c i p a t o r y -[] O r 
+g a n i z a t i o n s -[] O v e r v i e w-[] a n d -[] T
+ []
+
+
+Overfull \hbox (19.14047pt too wide) in paragraph at lines 13--14
+\T1/Alegreya-LF/regular/n/10.95 ti-ci-pa-ti-vas y una vi-sión y cul-tu-ra par-t
+i-ci-pa-ti-vas. 
+ []
+
+[99
+
+
+
+
+
+
+]
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ [100]
+<images/decentralized.png, id=991, 769.87625pt x 501.875pt>
+File: images/decentralized.png Graphic file (type png)
+<use images/decentralized.png>
+Package pdftex.def Info: images/decentralized.png  used on input line 35.
+(pdftex.def)             Requested size: 250.85849pt x 163.52863pt.
+
+Overfull \hbox (4.67426pt too wide) in paragraph at lines 46--47
+\T1/Alegreya-LF/regular/n/10.95 quier gru-po de per-so-nas de cual-quier na-tu-
+ra-le-za que
+ []
+
+
+Overfull \hbox (2.69228pt too wide) in paragraph at lines 46--47
+\T1/Alegreya-LF/regular/n/10.95 se reúna por cual-quier pe-río-do de tiem-po y 
+con cual-
+ []
+
+
+Overfull \hbox (7.80592pt too wide) in paragraph at lines 46--47
+\T1/Alegreya-LF/regular/n/10.95 al-gu-na ma-ne-ra. La es-truc-tu-ra pue-de ser 
+fle-xi-ble; pue-
+ []
+
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+[101]
+Overfull \hbox (0.76512pt too wide) in paragraph at lines 48--49
+[]\T1/Alegreya-LF/regular/n/10.95 Esto sig-ni-fi-ca que lu-char por un gru-po s
+in es-truc-
+ []
+
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+[102 <./images/decentralized.png (PNG copy)>]
+Overfull \hbox (0.99109pt too wide) in paragraph at lines 54--55
+[][][]$\T1/zi4/m/n/10.95 h t tp : / / w w w . w i r e d . c o m / 2 0 1 4 / 0 3
+ / t y r a n n y-[] f l a t n e s s/$[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+[103]
+Overfull \hbox (0.49109pt too wide) in paragraph at lines 55--56
+[][][]$\T1/zi4/m/n/10.95 h t t p s : / / e n . w i k i p e d i a . o r g / w i 
+k i / F l a t [] o r g a n i z a t i o
+ []
+
+
+Overfull \hbox (6.46608pt too wide) in paragraph at lines 56--57
+[][][]$\T1/zi4/m/n/10.95 h t t p s : / / t h e a n a r c h i s t l i b r a r y 
+. o r g / l i b r a r y / c a t h y-[] l
+ []
+
+
+Overfull \hbox (14.91373pt too wide) in paragraph at lines 62--63
+\T1/Alegreya-LF/regular/n/10.95 tan-gi-bles (co-no-ci-mien-to, có-di-go abier-t
+o, etc.). 
+ []
+
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+[104]
+Overfull \hbox (0.49109pt too wide) in paragraph at lines 98--99
+\T1/zi4/m/n/10.95 o p i a . p a r t i d o p i r a t a . c o m . a r / d e m o c
+ r a c i a [] d i r e c t a . h
+ []
+
+
+Overfull \hbox (0.99109pt too wide) in paragraph at lines 99--100
+\T1/zi4/m/n/10.95 w s . h a r v a r d . e d u / g a z e t t e / s t o r y / 2 0
+ 1 7 / 0 3 / h a r v a r d -[] s
+ []
+
+
+Overfull \hbox (14.44107pt too wide) in paragraph at lines 99--100
+\T1/zi4/m/n/10.95 c i e n t i s t s-[] h e l p-[] d e v e l o p -[] a l g o r i
+ t h m -[] t h a t-[] p r e d i c t s-[] s
+ []
+
+
+Overfull \hbox (0.99109pt too wide) in paragraph at lines 101--102
+\T1/zi4/m/n/10.95 l i d e s h a r e . n e t / m o b i l e / D a p C i d e / a d
+ v a n c i n g -[] i n n o v a t
+ []
+
+LaTeX Info: Redefining \. on input line 102.
+LaTeX Info: Redefining \% on input line 102.
+[105]
+Overfull \hbox (0.49109pt too wide) in paragraph at lines 103--104
+\T1/zi4/m/n/10.95 v a r d . e d u / f s / d o c s / i c b . t o p i c 6 0 8 8 7
+ 7 . f i l e s / C l a s s % 2
+ []
+
+
+Overfull \hbox (0.49109pt too wide) in paragraph at lines 103--104
+\T1/zi4/m/n/10.95 0 N i n e % 2 0 R e a d i n g / C L C[] F r a m e w o r k s[]
+ f o r [] O r g a n i z a t i o
+ []
+
+
+Overfull \hbox (7.46608pt too wide) in paragraph at lines 104--105
+\T1/zi4/m/n/10.95 w . n o r t h a t l a n t i c b o o k s . c o m / b l o g / o
+ f -[] w a r l o r d s-[] a n d -[] r
+ []
+
+
+Overfull \hbox (4.2579pt too wide) in paragraph at lines 105--106
+[]\T1/Alegreya-LF/regular/n/10.95 Problem Dri-ven Ite-ra-ti-ve Adap-ta-tion (vs
+ ot-her mains-tream
+ []
+
+
+Overfull \hbox (5.96608pt too wide) in paragraph at lines 105--106
+\T1/zi4/m/n/10.95 d . e d u / i n d e x . p h p / c e n t e r s / c i d / p r o
+ g r a m s / b u i l d i n g[] s
+ []
+
+
+Overfull \hbox (11.94107pt too wide) in paragraph at lines 107--108
+[][][]$\T1/zi4/m/n/10.95 h t tp : / / u n e n u m e r a t e d . b l o g s p o t
+ . c o m / 2 0 1 7 / 0 2 / m o n e y-[] b
+ []
+
+
+Overfull \hbox (0.99109pt too wide) in paragraph at lines 108--109
+[][][]$\T1/zi4/m/n/10.95 h t tp : / / u n e n u m e r a t e d . b l o g s p o t
+ . c o m / 2 0 0 6 / 1 1 / w e t-[] c
+ []
+
+)
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+ [106]
+Two-sided document style, odd page.
+
+Overfull \hbox (12.6677pt too wide) in paragraph at lines 136--136
+[][] 
+ []
+
+
+Overfull \hbox (80.16776pt too wide) in paragraph at lines 136--136
+[][] 
+ []
+
+[107
+
+
+
+]
+Two-sided document style, even page.
+
+Overfull \hbox (12.6677pt too wide) in paragraph at lines 136--136
+[][] 
+ []
+
+
+Overfull \hbox (80.16776pt too wide) in paragraph at lines 136--136
+[][] 
+ []
+
+[108]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+ (./scriptbook.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ (./chapters/01b-intro.aux) (./chapters/02-cap1.aux)
+(./chapters/03-cap2.aux) (./chapters/04-cap3.aux) (./chapters/05-cap4.aux)
+(./chapters/06-cap5.aux) (./chapters/07-anexos.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package rerunfilecheck Info: File `scriptbook.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 24712 strings out of 492162
+ 478548 string characters out of 6125292
+ 694620 words of memory out of 5000000
+ 28164 multiletter control sequences out of 15000+600000
+ 380523 words of font info for 85 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,16n,90p,10122b,1040s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/alegreya/algr_jfvu45.enc}
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/alegreya/algr_dfcgiv.enc}{/
+usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}{/usr
+/local/texlive/2019/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc}{/usr/l
+ocal/texlive/2019/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc}</usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Bold.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Italic.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/huerta/alegreya/Alegreya-Regular
+.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/huerta/alegreya/AlegreyaSa
+ns-Bold.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/huerta/alegreya/Ale
+greyaSans-BoldItalic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/huerta
+/alegreya/AlegreyaSans-Italic.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
+e1/huerta/alegreya/AlegreyaSans-Regular.pfb></usr/local/texlive/2019/texmf-dist
+/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2019/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/tex
+mf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
+Output written on scriptbook.pdf (126 pages, 8236544 bytes).
+PDF statistics:
+ 1299 PDF objects out of 1440 (max. 8388607)
+ 1084 compressed objects within 11 object streams
+ 305 named destinations out of 1000 (max. 500000)
+ 601 words of extra memory for PDF output out of 10000 (max. 10000000)
+

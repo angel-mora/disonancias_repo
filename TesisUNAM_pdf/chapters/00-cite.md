@@ -1,0 +1,15 @@
+# Convenciones de estilo:
+
+- Para un uso preciso del lenguaje y frente a la convención de hablar del “hombre” para referirse al _sujeto_ universal, usamos siempre “personas” y “gente” para evitar el plural masculino como plural para cualquier multitud. En todos los casos donde se lee plural en femenino es para referirse a las personas como multitud a menos que se especifique lo contrario.
+- Se dice que los autores de Tiqqun son un grupo de intelectuales que se conoce como “los nueve de Tarnac” y es muy probable que hayan escrito la colección de libros firmada por el Comité invisible, comenzando con “La insurrección que viene”. Sin embargo, en realidad este hecho es incierto y quizá fueron más bien personas alumnas del primer círculo quienes continuaron la producción escritural. He decidido señalar al Comité invisible como autor de Tiqqun porque en diversas publicaciones se dice que el Comité invisible es el órgano revolucionario del Partido imaginario, que es la figura política que desarrollan a lo largo de toda su obra. Además, la dificultad de nombrar a Tiqqun como autor de la revista es que llevan el mismo nombre, además de que Tiqqun es también un concepto del judaísmo que puede traducirse como redención. 
+
+# Preludio
+
+> _¿Por qué combaten los seres humanos por mantenerse en la servidumbre como si fuera su salvación?_
+Baruch Spinoza en @deleuzeAntiedipoCapitalismoEsquizofrenia2017.
+
+> _¡La guerra (¡pero sin
+pólvora!) entre los
+diferentes pensamientos!
+¡Y sus ejércitos!_
+Friedrich Nietzsche en @tiqqunIntroduccionGuerraCivil2008. 
