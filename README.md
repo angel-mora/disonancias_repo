@@ -1,4 +1,6 @@
-# Editorial Disonancias
+# Disonancias
+
+Textos y borradores para el proyecto Disonancias.
 
 Primera iteración de editorial Disonancias. Proyecto de escritura abierta para accionar alternativas al virus capitalista.
 
@@ -71,4 +73,4 @@ Este proyecto, afín a Pecas, responde a una licencia LEAL.
 
 ## Otras notas
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal 
