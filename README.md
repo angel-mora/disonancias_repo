@@ -24,7 +24,7 @@ Contiene:
 
 ## Sitio web
 
-[disonancias](https://disonancias.online)
+[disonancias](https://disonancias.org)
 
 ## Descarga los artículos en formato markdown
 
